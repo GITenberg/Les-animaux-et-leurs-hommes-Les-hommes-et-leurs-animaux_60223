@@ -1,5 +1,5 @@
 _repo: Les-animaux-et-leurs-hommes-Les-hommes-et-leurs-animaux_60223
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lhote, André
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Andr%C3%A9_Lhote
     - https://en.wikipedia.org/wiki/Andr%C3%A9_Lhote
+covers:
+- cover_type: archival
+  image_path: 60223-h/images/animaux_cover.jpg
 creator:
   author:
     agent_name: Éluard, Paul
@@ -30,6 +33,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_%C3%89luard
     - https://fr.wikipedia.org/wiki/Paul_%C3%89luard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60223#Les-animaux-et-leurs-hommes-Les-hommes-et-leurs-animaux
 gutenberg_bookshelf:
 - FR Poésie
 - FR Nouveautés
