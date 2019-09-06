@@ -1,0 +1,49 @@
+_repo: Les-animaux-et-leurs-hommes-Les-hommes-et-leurs-animaux_60223
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lhote, André
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '50854'
+    url: http://www.gutenberg.org/2009/agents/50854
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Lhote
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Lhote
+creator:
+  author:
+    agent_name: Éluard, Paul
+    aliases:
+    - Eluard, Paul
+    - Du Haut, Jean
+    - Grindel, Eugene
+    - Grindel, Eugène
+    - Grindel, Paul
+    - Desroches, Didier
+    - Hervent, Maurice
+    - Éluard, P. (Paul)
+    birthdate: 1895
+    deathdate: 1952
+    gutenberg_agent_id: '48891'
+    url: http://www.gutenberg.org/2009/agents/48891
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_%C3%89luard
+    - https://fr.wikipedia.org/wiki/Paul_%C3%89luard
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Nouveautés
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60223'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Poetry'
+- !lcc 'PQ'
+- GITenberg
+title: 'Les animaux et leurs hommes: Les hommes et leurs animaux'
+url: http://www.gutenberg.org/ebooks/60223
